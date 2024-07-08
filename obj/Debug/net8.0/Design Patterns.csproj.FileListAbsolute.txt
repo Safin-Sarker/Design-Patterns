@@ -1,0 +1,14 @@
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\bin\Debug\net8.0\Design Patterns.exe
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\bin\Debug\net8.0\Design Patterns.deps.json
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\bin\Debug\net8.0\Design Patterns.runtimeconfig.json
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\bin\Debug\net8.0\Design Patterns.dll
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\bin\Debug\net8.0\Design Patterns.pdb
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.AssemblyInfoInputs.cache
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.AssemblyInfo.cs
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.csproj.CoreCompileInputs.cache
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.dll
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\refint\Design Patterns.dll
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.pdb
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\Design Patterns.genruntimeconfig.cache
+D:\DevSkill Asp.net Core Course\Class practice\Design Patterns\obj\Debug\net8.0\ref\Design Patterns.dll

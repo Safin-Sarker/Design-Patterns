@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|d:\\devskill asp.net core course\\class practice\\design patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|d:\\devskill asp.net core course\\class practice\\design patterns\\factory\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|solutionrelative:factory\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|d:\\devskill asp.net core course\\class practice\\design patterns\\factory\\foodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|solutionrelative:factory\\foodfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|d:\\devskill asp.net core course\\class practice\\design patterns\\factory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|solutionrelative:factory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|d:\\devskill asp.net core course\\class practice\\design patterns\\factory\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8D790-88D9-414C-BD86-E78B4625843D}|Design Patterns.csproj|solutionrelative:factory\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:193525246:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\Burger.cs",
+              "RelativeDocumentMoniker": "Factory\\Burger.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\Burger.cs",
+              "RelativeToolTip": "Factory\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:24:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\Food.cs",
+              "RelativeDocumentMoniker": "Factory\\Food.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\Food.cs",
+              "RelativeToolTip": "Factory\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:23:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodFactory.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\FoodFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\FoodFactory.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\FoodFactory.cs",
+              "RelativeToolTip": "Factory\\FoodFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:23:58.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\Pizza.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizza.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Factory\\Pizza.cs",
+              "RelativeToolTip": "Factory\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:23:57.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DevSkill Asp.net Core Course\\Class practice\\Design Patterns\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:16:14.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
