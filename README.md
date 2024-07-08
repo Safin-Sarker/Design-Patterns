@@ -19,6 +19,7 @@ This repository contains practical examples of commonly used design patterns in 
   - [Abstract Factory Pattern](#abstract-factory-pattern)
   - [Builder Pattern](#builder-pattern)
   - [Prototype Pattern](#prototype-pattern)
+- [How to Use](#how-to-use)
 
 ## Introduction
 
