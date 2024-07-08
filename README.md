@@ -58,4 +58,4 @@ The Prototype Pattern creates new objects by copying an existing object, known a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DesignPatternExamples.git
+   git clone https://github.com/Safin-Sarker/Design-Patterns
